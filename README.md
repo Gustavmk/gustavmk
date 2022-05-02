@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Gustavmk/gustavmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my IaC project Killsh
+- 🌱 I’m currently learning ways to automate everything
 
-Here are some ideas to get you started:
+### 📈 Stats 
+[![Gustavmk GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavmk&theme=cobalt&show_icons=true)](https://github.com/gustavmk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡Languages
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavmk&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+
+### 📫 You can reach me on
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavomkuno/)](https://www.linkedin.com/in/gustavomkuno/)
+<hr>
