@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my IaC project Killsh
+- 🔭 I’m currently working on my IaC project DRYLabs
 - 🌱 I’m currently learning ways to automate everything
 
 ### 📫 You can reach me on
